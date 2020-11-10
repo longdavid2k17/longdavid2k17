@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello 👋
+My name is Dawid and I'm currently learning JAVA. That's for now. Later I will edit this file to share with you some more adecuate information about me
 <!--
 **longdavid2k17/longdavid2k17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
