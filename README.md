@@ -15,11 +15,11 @@ My name is Dawid and in the future I want to be the JAVA Developer. For now I st
 Spring Framework, Hibernate, REST, JUnit
 
 # My Projects
-* SetCar (JAVA, JavaFX, MySQL, Maven) [a link](https://github.com/longdavid2k17/setcar)
-* Workbench (JAVA, Swing, network communication) [a link](https://https://github.com/longdavid2k17/workbench)
-* OfficeNotes (JAVA, Swing, file operations) [a link](https://github.com/longdavid2k17/officenotes)
-* DailyCovidInfo (JAVA, Spring Web, HTML/CSS) [a link](https://github.com/longdavid2k17/DailyCovidInfo)
-* PolskiKursJAVA Repo (JAVA) [a link](https://github.com/longdavid2k17/PolskiKursJAVA)
+* SetCar (JAVA, JavaFX, MySQL, Maven) [LINK](https://github.com/longdavid2k17/setcar)
+* Workbench (JAVA, Swing, network communication) [LINK](https://https://github.com/longdavid2k17/workbench)
+* OfficeNotes (JAVA, Swing, file operations) [LINK](https://github.com/longdavid2k17/officenotes)
+* DailyCovidInfo (JAVA, Spring Web, HTML/CSS) [LINK](https://github.com/longdavid2k17/DailyCovidInfo)
+* PolskiKursJAVA Repo (JAVA) [LINK](https://github.com/longdavid2k17/PolskiKursJAVA)
 
 <!--
 **longdavid2k17/longdavid2k17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
