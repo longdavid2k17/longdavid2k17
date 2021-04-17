@@ -3,16 +3,17 @@ My name is Dawid and in the future I want to be the JAVA Developer. For now I st
 
 # My knowledge
 - JAVA
+- Spring/Spring Boot
 - MySQL
 - Maven
 - JavaFX / Swing
 - GIT
 - HTML / CSS
-- fluent English
+- fluent English (C1)
 
 
 # What do I learn in my free time?
-Spring Framework, Hibernate, REST, JUnit
+Spring Framework, Hibernate, REST, JUnit, Angular
 
 # My Projects
 * SetCar (JAVA, JavaFX, MySQL, Maven) [LINK](https://github.com/longdavid2k17/setcar)
