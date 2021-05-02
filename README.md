@@ -17,7 +17,9 @@ Spring Framework, Hibernate, REST, JUnit, Angular
 
 # My Projects
 * DailyCovidInfo (JAVA, Spring Web, HTML/CSS) [LINK](https://github.com/longdavid2k17/DailyCovidInfo)
-* Workbench (JAVA, Swing, network communication) [LINK](https://https://github.com/longdavid2k17/workbench)
+* Workbench (JAVA, Swing, network communication) [LINK](https://github.com/longdavid2k17/workbench)
+* NASA API Photos and data reader (Spring Boot, JSON Parser, Lombok, Thymeleaf) [LINK](https://github.com/longdavid2k17/nasa-api-photos)
+* Knowledge Registration System (Spring Boot, Spring Security, Thymeleaf, Java Mail, Lombok, JPA, H2) [LINK](https://github.com/longdavid2k17/knowledge_registration_system)
 * PolskiKursJAVA Repo (JAVA) [LINK](https://github.com/longdavid2k17/PolskiKursJAVA)
 * OfficeNotes (JAVA, Swing, file operations) [LINK](https://github.com/longdavid2k17/officenotes)
 
