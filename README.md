@@ -25,6 +25,8 @@ Spring Framework, Hibernate, REST, JUnit, Angular
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=longdavid2k17&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longdavid2k17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **longdavid2k17/longdavid2k17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
