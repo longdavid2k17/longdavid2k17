@@ -1,4 +1,4 @@
-### <h3>Hello 👋</h3>
+### <h3>Hello</h3> 👋
 My name is Dawid and in the future I want to be the JAVA Developer. For now I study in the Silesian University of Technology in Katowice (Computer Science for Industry). I'm ambitous and hungry for knowledge. In my free time exept of learning new technologies and studying in the univeristy, I record a simple JAVA course for YT(https://www.youtube.com/channel/UCRdYfPxL0PZPZ7O9fMjrynA/)
 
 # My knowledge
