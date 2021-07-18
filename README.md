@@ -23,6 +23,8 @@ Spring Framework, Hibernate, REST, JUnit, Angular
 * PolskiKursJAVA Repo (JAVA) [LINK](https://github.com/longdavid2k17/PolskiKursJAVA)
 * OfficeNotes (JAVA, Swing, file operations) [LINK](https://github.com/longdavid2k17/officenotes)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=longdavid2k17)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **longdavid2k17/longdavid2k17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
