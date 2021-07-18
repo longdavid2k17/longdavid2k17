@@ -14,13 +14,15 @@
 - HTML / CSS
 - fluent English (C1)
 
-
-# What do I learn in my free time?
-Spring Framework, Hibernate, REST, JUnit, Angular
+# My stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=longdavid2k17&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longdavid2k17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+# What do I learn in my free time?
+Spring Framework, Hibernate, REST, JUnit, Angular
+
 
 # My Projects
 * DailyCovidInfo (JAVA, Spring Web, HTML/CSS) [LINK](https://github.com/longdavid2k17/DailyCovidInfo)
