@@ -14,16 +14,6 @@
 - HTML / CSS
 - fluent English (C1)
 
-# My stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=longdavid2k17&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longdavid2k17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-# What do I learn in my free time?
-Spring Framework, Hibernate, REST, JUnit, Angular
-
-
 # My Projects
 * DailyCovidInfo (JAVA, Spring Web, HTML/CSS) [LINK](https://github.com/longdavid2k17/DailyCovidInfo)
 * Workbench (JAVA, Swing, network communication) [LINK](https://github.com/longdavid2k17/workbench)
@@ -32,6 +22,16 @@ Spring Framework, Hibernate, REST, JUnit, Angular
 * PolskiKursJAVA Repo (JAVA) [LINK](https://github.com/longdavid2k17/PolskiKursJAVA)
 * OfficeNotes (JAVA, Swing, file operations) [LINK](https://github.com/longdavid2k17/officenotes)
 
+# My stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=longdavid2k17&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longdavid2k17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+# What do I learn in my free time?
+Spring Framework, Hibernate, REST, JUnit, Angular
 <!--
 **longdavid2k17/longdavid2k17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
