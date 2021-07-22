@@ -28,7 +28,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longdavid2k17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![longdavid2k17's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=longdavid2k17&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![longdavid2k17's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=longdavid2k17)](https://github.com/anuraghazra/github-readme-stats)
 
 # What do I learn in my free time?
 Spring Framework, Hibernate, REST, JUnit, Angular
