@@ -9,9 +9,8 @@
 - Spring/Spring Boot
 - MySQL
 - Maven
-- JavaFX / Swing
 - GIT
-- HTML / CSS
+- Angular + TypeScript + HTML + CSS
 - fluent English (C1)
 
 # My Projects
