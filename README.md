@@ -1,15 +1,16 @@
 <p align="center">
  <h2 align="center">Hello 👋</h2>
- <p align="center">My name is Dawid and in the future I want to be the JAVA Developer. For now I study in the Silesian University of Technology in Katowice (Computer Science for Industry). I'm ambitous and hungry for knowledge. In my free time exept of learning new technologies and studying in the univeristy, I record a simple JAVA course for YT(https://www.youtube.com/channel/UCRdYfPxL0PZPZ7O9fMjrynA/)</p>
+ <p align="center">My name is Dawid, and I am JAVA Developer. For now I study in the Silesian University of Technology in Katowice (Computer Science for Industry) for a last year. I'm ambitous and hungry for knowledge. In my free time exept of learning new technologies and studying in the univeristy, I record a simple JAVA course for YT(https://www.youtube.com/channel/UCRdYfPxL0PZPZ7O9fMjrynA/)</p>
 </p>
 
 
 # My knowledge
 - JAVA
 - Spring/Spring Boot
-- MySQL
+- MySQL,SQL
 - Maven
 - GIT
+- RabbitMQ
 - Angular + TypeScript + HTML + CSS
 - fluent English (C1)
 
