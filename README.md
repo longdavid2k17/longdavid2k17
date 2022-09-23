@@ -1,6 +1,6 @@
 <p align="center">
  <h2 align="center">Hello 👋</h2>
- <p align="center">My name is Dawid, and I am JAVA Developer. I studied in the Silesian University of Technology in Katowice (Computer Science for Industry) where IT has been bachelor degree graduate. For now I work as Java Junior Developer. I'm ambitous and hungry for knowledge. In my free time exept of learning new technologies and studying in the univeristy, I record a simple JAVA course for YT(https://www.youtube.com/channel/UCRdYfPxL0PZPZ7O9fMjrynA/) (for a while I have a break from recording but soon I will come back :-) ) </p>
+ <p align="center">My name is Dawid, and I am JAVA Developer. I studied in the Silesian University of Technology in Katowice (Computer Science for Industry) where I has been bachelor degree graduate. For now I work as Java Junior Developer. I'm ambitous and hungry for knowledge. In my free time exept of learning new technologies and studying in the univeristy, I record a simple JAVA course for YT(https://www.youtube.com/channel/UCRdYfPxL0PZPZ7O9fMjrynA/) (for a while I have a break from recording but soon I will come back :-) ) </p>
 </p>
 
 
