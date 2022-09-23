@@ -16,6 +16,8 @@
 - basic German knowledge (A1/A2 probably)
 
 # My Projects
+* WebLearingPlatform (JAVA, Spring Web, Quarkus, Angular) IN PROGRESS (check my repos, all that name starts with 'WLP_' are parts of this microservice project)
+* MagIT (JAVA, Spring Web, Angular) [LINK](https://github.com/longdavid2k17/MagIT)
 * DailyCovidInfo (JAVA, Spring Web, HTML/CSS) [LINK](https://github.com/longdavid2k17/DailyCovidInfo)
 * Workbench (JAVA, Swing, network communication) [LINK](https://github.com/longdavid2k17/workbench)
 * NASA API Photos and data reader (Spring Boot, JSON Parser, Lombok, Thymeleaf) [LINK](https://github.com/longdavid2k17/nasa-api-photos)
